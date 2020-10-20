@@ -10,9 +10,17 @@ In this repository you'll find:
 - Plasma Look-and-Feel Themes
 
 ## Installation
-
+ 
+- Install git for your distro
+  (sudo apt install git, sudo yast install git, sudo pacman -S git, sudo dnf install git, atd...)
+ 
 ```sh
-./install.sh
+git clone https://github.com/Emteckos2/ChromeOS-kde-green-edition
+
+cd ChromeOS-kde-green-edition
+
+sudo bash install.sh
+
 ```
 
 ## Recommendations
