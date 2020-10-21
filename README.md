@@ -8,7 +8,7 @@ In this repository you'll find:
 - Plasma Color Schemes
 - Plasma Desktop Themes
 - Plasma Look-and-Feel Themes
-- Papirus icon theme with freem folders
+- Papirus icon theme with green folders
 
 ## Installation
  
