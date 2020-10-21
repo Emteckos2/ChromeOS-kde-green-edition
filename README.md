@@ -8,6 +8,7 @@ In this repository you'll find:
 - Plasma Color Schemes
 - Plasma Desktop Themes
 - Plasma Look-and-Feel Themes
+- Papirus icon theme with freem folders
 
 ## Installation
  
@@ -40,4 +41,4 @@ GNU GPL v3
 
 ## preview
 
-![1](../master/plasma/look-and-feel/com.github.vinceliuice.ChromeOS/contents/previews/fullscreenpreview.jpg)
+![1](https://github.com/Emteckos2/ChromeOS-kde-green-edition/blob/master/plasma/look-and-feel/com.github.vinceliuice.ChromeOS-dark/contents/previews/fullscreenpreview.jpg)
