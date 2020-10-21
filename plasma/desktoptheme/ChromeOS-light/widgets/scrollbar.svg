@@ -12,7 +12,7 @@
    version="1.0"
    id="svg254"
    sodipodi:docname="scrollbar.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata258">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,17 +34,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      id="namedview256"
      showgrid="false"
-     inkscape:zoom="7.0241678"
-     inkscape:cx="53.077531"
-     inkscape:cy="52.0961"
+     inkscape:zoom="4.9668367"
+     inkscape:cx="42.605077"
+     inkscape:cy="21.762642"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="45"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg254" />
+     inkscape:current-layer="svg254"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3">
     <style
@@ -457,7 +458,7 @@
        class="ColorScheme-ViewBackground" />
   </g>
   <rect
-     style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+     style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
      height="10"
      width="1"
      y="64"
@@ -466,15 +467,16 @@
      id="sunken-slider-center" />
   <g
      transform="matrix(0.75,0,0,1,19.25,57)"
-     id="sunken-slider-right">
+     id="sunken-slider-right"
+     style="fill:#368621;fill-opacity:1">
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path105"
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-ButtonHover" />
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect107"
        height="10"
        width="1"
@@ -484,9 +486,10 @@
   </g>
   <g
      transform="matrix(0.75,0,0,0.75,19.25,57.75)"
-     id="sunken-slider-topright">
+     id="sunken-slider-topright"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect110"
        height="4"
        width="4"
@@ -494,7 +497,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-77)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path112"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -502,9 +505,10 @@
   </g>
   <g
      transform="matrix(0.75,0,0,0.75,19.25,62.25)"
-     id="sunken-slider-bottomright">
+     id="sunken-slider-bottomright"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect115"
        height="4"
        width="4"
@@ -512,7 +516,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-83)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path117"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -520,15 +524,16 @@
   </g>
   <g
      transform="matrix(-0.75,0,0,1,29.75,57)"
-     id="sunken-slider-left">
+     id="sunken-slider-left"
+     style="fill:#368621;fill-opacity:1">
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path120"
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-ButtonHover" />
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect122"
        height="10"
        width="1"
@@ -538,9 +543,10 @@
   </g>
   <g
      transform="matrix(-0.75,0,0,0.75,29.75,57.75)"
-     id="sunken-slider-topleft">
+     id="sunken-slider-topleft"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect125"
        height="4"
        width="4"
@@ -548,7 +554,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-77)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path127"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -556,9 +562,10 @@
   </g>
   <g
      transform="matrix(-0.75,0,0,0.75,29.75,62.25)"
-     id="sunken-slider-bottomleft">
+     id="sunken-slider-bottomleft"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect130"
        height="4"
        width="4"
@@ -566,7 +573,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-83)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path132"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -574,9 +581,10 @@
   </g>
   <g
      transform="matrix(0,-0.75,-0.1,0,25.7,69.75)"
-     id="sunken-slider-top">
+     id="sunken-slider-top"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect135"
        height="4"
        width="1"
@@ -584,7 +592,7 @@
        x="24"
        transform="matrix(0,-10,-1.3333,0,93,257)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path137"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -592,9 +600,10 @@
   </g>
   <g
      transform="matrix(0,0.75,-0.1,0,25.7,68.25)"
-     id="sunken-slider-bottom">
+     id="sunken-slider-bottom"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect140"
        height="4"
        width="1"
@@ -602,14 +611,14 @@
        x="24"
        transform="matrix(0,-10,1.3333,0,-91,257)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path142"
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-ButtonHover" />
   </g>
   <rect
-     style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+     style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
      height="10"
      width="1"
      y="42"
@@ -618,15 +627,16 @@
      id="mouseover-slider-center" />
   <g
      transform="matrix(0.75,0,0,1,19.25,35)"
-     id="mouseover-slider-right">
+     id="mouseover-slider-right"
+     style="fill:#368621;fill-opacity:1">
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path146"
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-ButtonHover" />
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect148"
        height="10"
        width="1"
@@ -636,9 +646,10 @@
   </g>
   <g
      transform="matrix(0.75,0,0,0.75,19.25,35.75)"
-     id="mouseover-slider-topright">
+     id="mouseover-slider-topright"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect151"
        height="4"
        width="4"
@@ -646,7 +657,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-77)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path153"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -654,9 +665,10 @@
   </g>
   <g
      transform="matrix(0.75,0,0,0.75,19.25,40.25)"
-     id="mouseover-slider-bottomright">
+     id="mouseover-slider-bottomright"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect156"
        height="4"
        width="4"
@@ -664,7 +676,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-83)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path158"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -672,15 +684,16 @@
   </g>
   <g
      transform="matrix(-0.75,0,0,1,29.75,35)"
-     id="mouseover-slider-left">
+     id="mouseover-slider-left"
+     style="fill:#368621;fill-opacity:1">
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path161"
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-ButtonHover" />
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect163"
        height="10"
        width="1"
@@ -690,9 +703,10 @@
   </g>
   <g
      transform="matrix(-0.75,0,0,0.75,29.75,35.75)"
-     id="mouseover-slider-topleft">
+     id="mouseover-slider-topleft"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect166"
        height="4"
        width="4"
@@ -700,7 +714,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-77)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path168"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -708,9 +722,10 @@
   </g>
   <g
      transform="matrix(-0.75,0,0,0.75,29.75,40.25)"
-     id="mouseover-slider-bottomleft">
+     id="mouseover-slider-bottomleft"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect171"
        height="4"
        width="4"
@@ -718,7 +733,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-83)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path173"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -726,9 +741,10 @@
   </g>
   <g
      transform="matrix(0,-0.75,-0.1,0,25.7,47.75)"
-     id="mouseover-slider-top">
+     id="mouseover-slider-top"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect176"
        height="4"
        width="1"
@@ -736,7 +752,7 @@
        x="24"
        transform="matrix(0,-10,-1.3333,0,93,257)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path178"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -744,9 +760,10 @@
   </g>
   <g
      transform="matrix(0,0.75,-0.1,0,25.7,46.25)"
-     id="mouseover-slider-bottom">
+     id="mouseover-slider-bottom"
+     style="fill:#368621;fill-opacity:1">
     <rect
-       style="opacity:0.01000001;fill:#e4e6e8"
+       style="opacity:0.01000001;fill:#368621;fill-opacity:1"
        id="rect181"
        height="4"
        width="1"
@@ -754,7 +771,7 @@
        x="24"
        transform="matrix(0,-10,1.3333,0,-91,257)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#368621;fill-rule:evenodd;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path183"
        d="m 9,7 v 10 h 4 V 7 Z"

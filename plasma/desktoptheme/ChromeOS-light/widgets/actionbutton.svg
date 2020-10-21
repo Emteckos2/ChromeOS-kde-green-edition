@@ -13,7 +13,7 @@
    version="1"
    id="svg99"
    sodipodi:docname="actionbutton.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata103">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1005"
      id="namedview101"
      showgrid="false"
      inkscape:zoom="2.6074562"
-     inkscape:cx="-4.8752908"
+     inkscape:cx="-28.077982"
      inkscape:cy="48.435643"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="45"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg99"
      inkscape:document-rotation="0" />
@@ -216,7 +216,7 @@
        y="-1.91"
        id="rect37" />
     <circle
-       style="fill:#4285f4"
+       style="fill:#368621;fill-opacity:1"
        cx="-32"
        cy="8"
        r="8"
@@ -234,7 +234,7 @@
        y="-1.91"
        id="rect42" />
     <path
-       style="fill:#4285f4"
+       style="fill:#368621;fill-opacity:1"
        transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)"
        d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"
        id="path44" />

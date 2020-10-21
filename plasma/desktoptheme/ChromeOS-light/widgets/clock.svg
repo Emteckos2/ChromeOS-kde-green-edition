@@ -12,7 +12,7 @@
    version="1.0"
    id="svg100"
    sodipodi:docname="clock.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata104">
     <rdf:RDF>
@@ -34,17 +34,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      id="namedview102"
      showgrid="false"
-     inkscape:zoom="1.6818348"
-     inkscape:cx="156.22149"
-     inkscape:cy="118.40825"
+     inkscape:zoom="2.3784736"
+     inkscape:cx="230.72528"
+     inkscape:cy="128.34688"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="45"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg100" />
+     inkscape:current-layer="svg100"
+     inkscape:document-rotation="0" />
   <defs
      id="defs19">
     <linearGradient
@@ -97,7 +98,7 @@
        id="text5153"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Oxygen;-inkscape-font-specification:Oxygen;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3daee9;fill-opacity:1;stroke:none">
       <path
-         style="fill:#97bcf9;fill-opacity:1"
+         style="fill:#368621;fill-opacity:1"
          inkscape:connector-curvature="0"
          d="m 1306.8865,363.0712 c 2.7474,3e-5 4.9479,0.72268 6.6015,2.16797 1.6667,1.43231 2.5,3.39195 2.5,5.8789 0,1.69273 -0.4362,3.28778 -1.3086,4.78516 -0.8724,1.48439 -2.2135,3.19663 -4.0234,5.13672 l -8.2617,8.80859 h 13.0273 v 3.00781 h -16.4453 v -3.6914 l 9.3945,-10.6836 c 1.2761,-1.45831 2.2331,-2.72784 2.8711,-3.80859 0.6511,-1.09373 0.9766,-2.17446 0.9766,-3.24219 0,-1.66664 -0.4753,-2.93617 -1.4258,-3.80859 -0.9505,-0.87237 -2.2851,-1.30857 -4.0039,-1.30859 -2.5521,2e-5 -4.6419,0.82033 -6.2695,2.46093 l -1.1328,-3.0664 c 1.914,-1.75779 4.414,-2.63669 7.5,-2.63672 m -14.8802,1.23047 h 3.4961 v 28.55468 h -3.4961 v -25.29296 c -1.6015,1.06773 -3.1966,1.95965 -4.7851,2.67578 v -3.06641 c 1.25,-0.54685 2.845,-1.50388 4.7851,-2.87109"
          id="path6197" />
@@ -106,7 +107,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="C:\Users\andrewl\Downloads\silly clock.png"
-       style="fill:#97bcf9;fill-opacity:1;stroke:none"
+       style="fill:#368621;fill-opacity:1;stroke:none"
        id="rect5442"
        width="20"
        height="2.7090182"
@@ -121,13 +122,13 @@
        height="2.7090182"
        width="20"
        id="rect5446"
-       style="fill:#97bcf9;fill-opacity:1;stroke:none" />
+       style="fill:#368621;fill-opacity:1;stroke:none" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="C:\Users\andrewl\Downloads\silly clock.png"
        transform="rotate(90)"
-       style="fill:#97bcf9;fill-opacity:1;stroke:none"
+       style="fill:#368621;fill-opacity:1;stroke:none"
        id="rect5448"
        width="20"
        height="2.7090182"
@@ -187,7 +188,8 @@
   </g>
   <g
      id="MinuteHand"
-     transform="matrix(-0.5033,0.86411,-0.86411,-0.5033,1386.8248,-477.70633)">
+     transform="matrix(-0.5033,0.86411,-0.86411,-0.5033,1386.8248,-477.70633)"
+     style="fill:#5edb31;fill-opacity:1">
     <rect
        transform="matrix(-0.5033,-0.86411,0.86411,-0.5033,966.28,692.06)"
        x="64"
@@ -195,9 +197,9 @@
        width="12"
        height="85"
        id="rect63"
-       style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392001" />
+       style="opacity:0.01000001;fill:#5edb31;fill-opacity:1" />
     <path
-       style="opacity:0.5;fill:#ffffff;stroke-width:0.9999944"
+       style="opacity:0.5;fill:#5edb31;stroke-width:0.9999944;fill-opacity:1"
        d="m 67.867188,96.363281 a 3.6705871,3.6705871 0 0 0 -3.013672,1.820313 3.6705871,3.6705871 0 0 0 1.324218,5.017576 3.6705871,3.6705871 0 0 0 0.4375,0.21289 l -0.02344,73.5 3,0.002 0.02344,-73.57813 a 3.6705871,3.6705871 0 0 0 1.582032,-1.46094 3.6705871,3.6705871 0 0 0 -1.324219,-5.017575 3.6705871,3.6705871 0 0 0 -2.005859,-0.496094 z"
        transform="matrix(-0.50330152,-0.86411261,0.86411261,-0.50330152,965.30261,690.37877)"
        id="path65"
@@ -213,21 +215,13 @@
        width="77.736"
        height="1.7322"
        id="rect70"
-       style="fill:#f67400" />
+       style="fill:#5df600;fill-opacity:1" />
     <path
        transform="matrix(0.29783,0,0,0.29783,489.81,467.45)"
        d="m 1777.9,382.03 c 0,3.5896 -2.9099,6.4994 -6.4994,6.4994 -3.5896,0 -6.4995,-2.9099 -6.4995,-6.4994 0,-3.5895 2.9099,-6.4995 6.4995,-6.4995 3.5895,0 6.4994,2.9099 6.4994,6.4995 z"
        id="path72"
        inkscape:connector-curvature="0"
-       style="fill:#f67400" />
-    <rect
-       transform="matrix(-0.50062,-0.86567,0.86567,-0.50062,985.87,726.55)"
-       x="106"
-       y="96"
-       width="8"
-       height="7"
-       id="rect74"
-       style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392001" />
+       style="fill:#5df600;fill-opacity:1" />
   </g>
   <g
      style="opacity:0;fill:#232629"
