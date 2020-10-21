@@ -49,4 +49,24 @@ echo "Installing '${THEME_NAME} kde themes'..."
 
 install "${name:-${THEME_NAME}}"
 
+git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
+cd papirus-icon-theme
+
+sudo bash install.sh
+
+git clone https://github.com/PapirusDevelopmentTeam/papirus-folders
+
+cd papirus-foldders
+
+bash install.sh
+
+papirus-folders -C green -t Papirus-Dark
+
+echo "Installing finnished ..."
+
+
+
+
+
 echo "Install finished..."
