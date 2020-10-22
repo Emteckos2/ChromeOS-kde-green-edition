@@ -5,7 +5,7 @@ cursorTheme=Vimix-cursors
 ColorScheme=ChromeOSDark
 
 [kdeglobals][Icons]
-Theme=Tela-dark
+Theme=Papirus
 
 [kdeglobals][KDE]
 widgetStyle=kvantum
@@ -23,4 +23,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__ChromeOS-dark
 
 [plasmarc][Theme]
-name=ChromeOS
+name=ChromeOS-green-edition
